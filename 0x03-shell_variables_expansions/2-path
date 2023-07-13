@@ -1,2 +1,2 @@
 #!/bin/bash
-dshdgf
+export PATH=$PATH:/action
